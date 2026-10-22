@@ -1,0 +1,6 @@
+{
+  "name": "Pathwise - Budget-Driven Custom Learning Packages",
+  "description": "Customized ed-tech platform where learners build bespoke course packages tailored to their exact budget with transparent per-lesson pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
